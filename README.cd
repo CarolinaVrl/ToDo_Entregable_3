@@ -1,0 +1,16 @@
+Endpoint used for the creation of this deliverable
+
+USERS
+GET  : localhost:5600/api/v1/users
+POST : localhost:5600/api/v1/users
+GET  : localhost:5600/api/v1/users/1/todo
+
+CATEGORYS
+GET  : localhost:5600/api/v1/categorys
+POST : localhost:5600/api/v1/categorys
+DEL  : localhost:5600/api/v1/categorys/3
+
+TODO 
+POST : localhost:5600/api/v1/todo
+PUT  : localhost:5600/api/v1/todo/4
+DEL  : localhost:5600/api/v1/todo/3
